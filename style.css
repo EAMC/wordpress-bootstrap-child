@@ -1,0 +1,11 @@
+/*
+Theme Name:     Wordpress Bootstrap Child
+Theme URI:      http://techster.co
+Description:    Child theme for Wordpress Bootstrap
+Author:         Chris Wenk
+Author URI:     http://techster.co
+Template:       wordpress-bootstrap                             
+Version:        1.0.0
+*/
+
+@import url("../wordpress-bootstrap/style.css");
